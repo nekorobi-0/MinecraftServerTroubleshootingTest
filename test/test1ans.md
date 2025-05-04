@@ -1,6 +1,8 @@
 ## だいたい100点ぐらいの回答 by Gemini 2.5 Pro Preview
 
 [問題](/test/test1.md)
+[回答例](/test/test1ans.md)
+[採点基準](/test/test1MarkingScheme.md)
 
 ## 1. この障害の原因として考えられるもの
 
