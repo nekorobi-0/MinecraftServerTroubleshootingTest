@@ -5,9 +5,9 @@
 問一に関してはほぼ完璧。  
 問二はここまでやらんくても大抵はどっかで原因がわかるのでここまで言及しなくてよろしい  
 
-[問題](/test/test1.md)
-[回答例](/test/test1ans.md)
-[採点基準](/test/test1MarkingScheme.md)
+[問題](/test/test1/Question.md)
+[回答例](/test/test1/Answer.md)
+[採点基準](/test/test1/MarkingScheme.md)
 
 ## 1. この障害の原因として考えられるもの
 
