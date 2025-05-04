@@ -2,3 +2,4 @@
 
 [問題](/test/test1.md)
 [回答例](/test/test1ans.md)
+[採点基準](/test/test1MarkingScheme.md)
