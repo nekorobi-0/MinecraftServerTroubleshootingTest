@@ -1,5 +1,10 @@
 ## だいたい100点ぐらいの回答 by Gemini 2.5 Pro Preview
 
+
+講評:
+問一に関してはほぼ完璧。  
+問二はここまでやらんくても大抵はどっかで原因がわかるのでここまで言及しなくてよろしい  
+
 [問題](/test/test1.md)
 [回答例](/test/test1ans.md)
 [採点基準](/test/test1MarkingScheme.md)
